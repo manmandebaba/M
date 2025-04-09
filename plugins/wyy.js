@@ -588,7 +588,7 @@ module.exports = {
   author: "ikun0014",
   version: "0.1.3",
   appVersion: ">0.1.0-alpha.0",
-  srcUrl: "https://mf.ikunshare.com/wy/index.js",
+  srcUrl: "https://slink.ltd/https://raw.githubusercontent.com/manmandebaba/M/main/plugins/wyy.js",
   cacheControl: "no-store",
   hints: {
     importMusicSheet: [
