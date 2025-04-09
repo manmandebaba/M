@@ -709,7 +709,7 @@ module.exports = {
   },
   primaryKey: ["copyrightId"],
   cacheControl: "cache",
-  srcUrl: "https://mf.ikunshare.com/mg/index.js",
+  srcUrl: "https://slink.ltd/https://raw.githubusercontent.com/manmandebaba/M/main/plugins/mg.js",
   supportedSearchType: ["music", "album", "sheet", "artist", "lyric"],
   getMediaSource,
   async search(query, page, type) {
